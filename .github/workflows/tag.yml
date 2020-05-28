@@ -1,0 +1,3 @@
+name: hello-gha-tag
+# I don't know abstract tag event
+# on: push

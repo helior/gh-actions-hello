@@ -1,0 +1,5 @@
+name: hello-gha-pull-request
+on:
+  pull_request:
+    branches:
+      - master
