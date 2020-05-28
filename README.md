@@ -5,3 +5,8 @@ Just for me to learn. Usually I just keep these things on my local. Actually, I 
 Anyway.
 
 ♥
+
+### Links
+- [Github syntax.info](https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions)
+- [Github Events.com](https://help.github.com/en/actions/reference/events-that-trigger-workflows)
+- [Gibhub for Managers.orgs](https://help.github.com/en/actions/configuring-and-managing-workflows/managing-a-workflow-run)
